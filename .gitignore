@@ -9,3 +9,5 @@ node_modules
 .vercel
 .output
 .vscode
+frontend-e2e/reports
+frontend-e2e/screenshots
