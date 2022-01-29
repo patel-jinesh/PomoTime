@@ -11,3 +11,5 @@ node_modules
 .vscode
 frontend-e2e/reports
 frontend-e2e/screenshots
+dist
+*.tsbuildinfo
