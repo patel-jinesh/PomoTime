@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test:frontend": "npm run test:watch --workspace=frontend",
+    "test:frontend:ci": "npm run test --workspace=frontend"
+  },
+  "workspaces": [
+    "common",
+    "frontend",
+    "frontend-e2e",
+    "backend"
+  ]
+}
