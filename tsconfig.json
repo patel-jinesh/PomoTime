@@ -3,9 +3,6 @@
   "references": [
     {
       "path": "./frontend/tsconfig.build.json"
-    },
-    {
-      "path": "./frontend-e2e/tsconfig.json"
     }
   ]
 }
