@@ -11,5 +11,5 @@ const browserOptions: LaunchOptions = {
 
 export const config = {
   browserOptions,
-  BASE_URL: 'https://playwright.dev',
+  BASE_URL: 'http://localhost:3000',
 };

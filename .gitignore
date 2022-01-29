@@ -13,3 +13,4 @@ frontend-e2e/reports
 frontend-e2e/screenshots
 dist
 *.tsbuildinfo
+traces
