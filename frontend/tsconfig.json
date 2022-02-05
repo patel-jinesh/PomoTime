@@ -34,6 +34,6 @@
 		"src/**/*.svelte"
 	],
 	"exclude": [
-		"src/**/*.spec.ts"
+		"src/**/*.stories.svelte"
 	]
 }

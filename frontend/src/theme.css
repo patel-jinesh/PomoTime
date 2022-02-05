@@ -1,0 +1,25 @@
+:root {
+	--primary-fg: white;
+	--primary-brdr: rgba(94, 158, 255, 0.75);
+	--primary-bg: rgba(0, 102, 255, 0.75);
+	--primary-brdr-hvr: rgba(94, 158, 255, 1);
+	--primary-bg-hvr: rgba(0, 102, 255, 1);
+	--primary-brdr-atv: rgba(94, 158, 255, 0.5);
+	--primary-bg-atv: rgba(0, 102, 255, 0.5);
+
+	--regular-fg: white;
+	--regular-bg: rgba(28, 31, 38, 0.75);
+	--regular-brdr: rgba(45, 50, 61, 0.75);
+	--regular-brdr-hvr: rgba(45, 50, 61, 1);
+	--regular-bg-hvr: rgba(28, 31, 38, 1);
+	--regular-brdr-atv: rgba(45, 50, 61, 0.5);
+	--regular-bg-atv: rgba(28, 31, 38, 0.5);
+
+	--destructive-fg: white;
+	--destructive-brdr: rgba(255, 94, 94, 0.75);
+	--destructive-bg: rgba(255, 0, 0, 0.75);
+	--destructive-brdr-hvr: rgb(255, 94, 94);
+	--destructive-bg-hvr: rgb(255, 0, 0);
+	--destructive-brdr-atv: rgba(255, 94, 94, 0.5);
+	--destructive-bg-atv: rgba(255, 0, 0, 0.5);
+}
